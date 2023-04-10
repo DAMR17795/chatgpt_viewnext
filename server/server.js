@@ -5,7 +5,7 @@ import cors from 'cors'
 //Para utilizar openai de manera cómoda
 import { Configuration, OpenAIApi } from 'openai'
 import mongoose from 'mongoose'
-
+/*Comentario*/
 
 //Necesario para utilizar las constantes
 // de .env
